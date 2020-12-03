@@ -28,7 +28,7 @@ All done with C++/BehaviorTree/Blackboard
 
 ## Video:
 
-https://www.youtube.com/watch?v=20Qj2slPjMg&feature=youtu.be
+https://www.youtube.com/watch?v=QsvbsHgh-Eg&ab_channel=PBrzoska
 
 
 
